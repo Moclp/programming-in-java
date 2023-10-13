@@ -1,0 +1,2 @@
+class Dunedain implements Reliable {
+}
